@@ -1,0 +1,5 @@
+C:\Users\ft\Desktop\ddddddddd\Simple-TCP-Port-Scanner-master\PortScanner\bin\Debug\PortScanner.exe
+C:\Users\ft\Desktop\ddddddddd\Simple-TCP-Port-Scanner-master\PortScanner\bin\Debug\PortScanner.pdb
+C:\Users\ft\Desktop\ddddddddd\Simple-TCP-Port-Scanner-master\PortScanner\obj\Debug\PortScanner.csprojResolveAssemblyReference.cache
+C:\Users\ft\Desktop\ddddddddd\Simple-TCP-Port-Scanner-master\PortScanner\obj\Debug\PortScanner.exe
+C:\Users\ft\Desktop\ddddddddd\Simple-TCP-Port-Scanner-master\PortScanner\obj\Debug\PortScanner.pdb
